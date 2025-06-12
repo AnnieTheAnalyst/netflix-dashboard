@@ -48,7 +48,7 @@ TV Shows = CALCULATE( [Total Shows], netflix_titles[type] = "TV Show" )
 
 // Additional useful measures
 Movie Percentage = DIVIDE([Movies], [Total Shows], 0)
-TV Show Percentage = DIVIDE([TV Shows Count], [Total Shows], 0)
+TV Show Percentage = DIVIDE([TV Shows], [Total Shows], 0)
 
 ```
 
