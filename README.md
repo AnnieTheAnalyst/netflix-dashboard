@@ -13,6 +13,9 @@
 
 ---
 
+## 🌟 Live Dashboard  
+[![Power BI](https://img.shields.io/badge/View_Interactive_Dashboard-FFB900?logo=powerbi&logoColor=white)](https://app.powerbi.com/your-link)  
+
 ## 📂 How to Use This Repository  
 
 ### For Inspiration  
